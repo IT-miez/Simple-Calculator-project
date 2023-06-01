@@ -1,4 +1,4 @@
-# The Odin Project -  Etch-a-sketch project
+# The Odin Project -  Simple calculator project
 This project was made while doing The Odin Project. </br>
 The calculator has a screen with the inputted text, buttons for adding numbers, basic calculation buttons and reset + delete character buttons</br><br>
 
